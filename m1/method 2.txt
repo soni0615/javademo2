@@ -1,0 +1,12 @@
+class java{
+public class m1(){
+System.out.println("hello");
+
+}
+public class m2(){
+System.out.println("hello");
+
+}
+
+
+}
